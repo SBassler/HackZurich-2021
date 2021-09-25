@@ -4,6 +4,9 @@ The app Delage is a platform unifying the Coursera of sports coaches with the Am
 
 
 
+
+
+
 What if we told you that time travel was possible?
 
 Our app Delage allows you to travel back in time, by taking a holistic view of your health data in order to rejuvenate your biological age. While other solutions stop at this point, Delage takes an active role as your personal health coach and gives you personalised lifestyle suggestions, so you can live a happier and more fulfilling life.
